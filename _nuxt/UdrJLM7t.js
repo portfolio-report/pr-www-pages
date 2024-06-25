@@ -1,1 +1,0 @@
-import{a5 as n}from"./CS8Fe4rG.js";async function t(a,e){const i=n();return await $fetch(a,{baseURL:i.public.baseUrl,...e})}export{t as u};
