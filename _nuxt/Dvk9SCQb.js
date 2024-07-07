@@ -1,1 +1,0 @@
-import{aw as t,t as r,l as o,Z as s,x as a}from"./BVRc0Wiu.js";var i={name:"BlankIcon",extends:t},n=a("rect",{width:"1",height:"1",fill:"currentColor","fill-opacity":"0"},null,-1),l=[n];function c(e,p,h,d,w,g){return r(),o("svg",s({width:"14",height:"14",viewBox:"0 0 14 14",fill:"none",xmlns:"http://www.w3.org/2000/svg"},e.pti()),l,16)}i.render=c;export{i as s};
