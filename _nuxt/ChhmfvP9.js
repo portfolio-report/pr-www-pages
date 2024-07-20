@@ -1,1 +1,0 @@
-import e from"./DMAXO-2J.js";import"./D23MMBCW.js";var c={name:"InputSwitch",extends:e,mounted:function(){console.warn("Deprecated since v4. Use ToggleSwitch component instead.")}};export{c as default};
